@@ -29,7 +29,7 @@ const Bio = () => {
           getListItem(mode, bioMode, setBioMode)
         )}
       </ul>
-      <div className="bio">
+      <div className="bio p-1">
       { bioMode === BioMode.Short ? 
         <p>
           Hi! I'm Dan 👋 I'm a Software Engineer 💻 currently making some dope software for <BudLogo />.
