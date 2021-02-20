@@ -3,11 +3,11 @@ import Icon from './Icon';
 const links = [
   {
     icon: "twitter",
-    url: "https://twitter.com/DanDecrypted"
+    url: "https://twitter.com/iDanScott"
   },
   {
     icon: "github",
-    url: "https://github.com/DanDecrypted"
+    url: "https://github.com/iDanScott"
   },
   {
     icon: "twitch",
