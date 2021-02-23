@@ -3,7 +3,7 @@ import Icon from './Icon';
 const links = [
   {
     icon: "twitter",
-    url: "https://twitter.com/iDanScott"
+    url: "https://twitter.com/CoderDan"
   },
   {
     icon: "github",
